@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Republic Service App</string>
+    <string name="sort_results">Sort By Last Name</string>
+    <string name="refresh">Refresh</string>
+</resources>
